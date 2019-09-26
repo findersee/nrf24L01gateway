@@ -1,1 +1,1 @@
-# nrf905gateway
+# nrf24L01gateway
